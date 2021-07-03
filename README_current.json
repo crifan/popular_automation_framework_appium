@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0",
+  "lastUpdate": "20210703",
+  "gitRepoName": "popular_automation_framework_appium",
+  "bookName": "主流跨平台自动化框架：Appium",
+  "bookDescription": "介绍主流自动化工具Appium。包括对Appium的概述，简单介绍Appium的自动化操作iOS；详细介绍自动化操作Android，包括如何初始化搭建环境、如何用Appium Inspector调试页面元素，以及总结一些常见问题和经验心得。"
+}

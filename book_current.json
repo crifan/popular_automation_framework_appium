@@ -1,0 +1,22 @@
+{
+  "title": "主流跨平台自动化框架：Appium",
+  "description": "介绍主流自动化工具Appium。包括对Appium的概述，简单介绍Appium的自动化操作iOS；详细介绍自动化操作Android，包括如何初始化搭建环境、如何用Appium Inspector调试页面元素，以及总结一些常见问题和经验心得。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "popular_automation_framework_appium"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/popular_automation_framework_appium/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/popular_automation_framework_appium/pdf/popular_automation_framework_appium.pdf"
+    }
+  }
+}
